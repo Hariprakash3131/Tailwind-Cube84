@@ -1,0 +1,12 @@
+.bg-brown{
+    background-color: #ddad81;
+}
+.brown-p{
+    color: #281f16;
+}
+.bg-brown:hover{
+    background-color: #4c3c2c;
+}
+.brown-p:hover{
+    color: white;
+}
