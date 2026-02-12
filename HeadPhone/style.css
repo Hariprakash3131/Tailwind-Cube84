@@ -4,9 +4,16 @@
 /* Base Font */
 body {
   font-family: 'Inter', system-ui, sans-serif;
+  background-color: #000000;
 }
 
 /* Heading Font */
 .font-display {
   font-family: 'Space Grotesk', 'Inter', sans-serif;
+}
+.bg-nav-button{
+    background-color: #1a1a1a;
+}
+.bg-nav-button:hover{
+    background-color: #373737;
 }
